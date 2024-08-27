@@ -1,4 +1,5 @@
 import Link from "next/link";
+
 import { MagicButton } from "./ui/MagicButton";
 import { Spotlight } from "./ui/Spotlight";
 import { TextGenerateEffect } from "./ui/TextGenerateEffect";
