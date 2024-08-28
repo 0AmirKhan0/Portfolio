@@ -108,32 +108,37 @@ export const testimonials = [
   {
     quote:
       "Collaborating with Amir Khan was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Amir Khan's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Amir Khan is the ideal partner.",
-    name: "Michael Johnson",
+    name: "Salar Keshavarzi",
     title: "Director of AlphaStream Technologies",
+    img: "/salarK.jpg",
   },
   {
     quote:
       "Collaborating with Amir Khan was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Amir Khan's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Amir Khan is the ideal partner.",
-    name: "Amir Mohammad Abdolhossein pour",
+    name: "Mohammad Momeni",
     title: "Director of AlphaStream Technologies",
+    img: "/momeni.jpg",
   },
   {
     quote:
       "Collaborating with Amir Khan was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Amir Khan's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Amir Khan is the ideal partner.",
     name: "Salar Mehri Mahani",
     title: "Director of AlphaStream Technologies",
+    img: "/salarM.jpg",
   },
   {
     quote:
       "Collaborating with Amir Khan was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Amir Khan's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Amir Khan is the ideal partner.",
-    name: "Modammad Lashkari",
+    name: "Mohammad Lashkari",
     title: "Director of AlphaStream Technologies",
+    img: "/lashkari.jpg",
   },
   {
     quote:
       "Collaborating with Amir Khan was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Amir Khan's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Amir Khan is the ideal partner.",
     name: "Jonas smith",
     title: "Director of AlphaStream Technologies",
+    img: "",
   },
 ];
 
